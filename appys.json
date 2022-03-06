@@ -3,7 +3,7 @@
     "星空影视": { "url": "https://xkys.tv/xgapp.php/v1/", "jx": [] },
     "饭团影视": { "url": "http://television.wkfile.com/api.php/app/" },
     "嘀哩嘀哩": { "url": "http://dilidili.la/api.php/app/" },
-    "天空影视": { "url": "https://tkys.tv/xgapp.php/v1/" },
+    "天空影视": { "url": "http://api.tiankongapi.com/api.php/provide/vod/" },
     "手指影视": { "url": "https://szys5678.com/mogai_api.php/v1.vod" },
     "心爱影视": { "url": "https://xays6677.com/mogai_api.php/v1.vod" },
     "913e影视": { "url": "http://www.913e.net/xgapp.php/v1/" },
