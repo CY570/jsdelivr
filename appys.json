@@ -1,7 +1,7 @@
 {
   "sites": {
-    "星空影视": { "url": "https://xkys.tv/xgapp.php/v1/", "jx": [] },
-    "饭团影视": { "url": "http://television.wkfile.com/api.php/app/" },
+    "追剧吧": { "url": "http://www.zhuiju8.vip/api.php/provide/vod/", "jx": [] },
+    "速更资源": { "url": "https://sugengzy.cn/api.php/provide/vod/" },
     "嘀哩嘀哩": { "url": "http://dilidili.la/api.php/app/" },
     "天空影视": { "url": "http://api.tiankongapi.com/api.php/provide/vod/" },
     "手指影视": { "url": "https://szys5678.com/mogai_api.php/v1.vod" },
